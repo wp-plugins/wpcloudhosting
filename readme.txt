@@ -23,7 +23,7 @@ To publish new content, you will have to run your server with WordPress, write n
  
 == Installation ==
 
-!!! For more detailed instructions see http://www.s-media.si/hosting-wp-blog-on-s3-or-gcs/ !!!
+!!! For more detailed instructions see http://www.s-media.si/wp-blog-on-s3-or-gcs/ !!!
 
 
 1.  Sign up to AWS
@@ -33,23 +33,23 @@ To publish new content, you will have to run your server with WordPress, write n
 5.  Install this plugin through the WordPress admin panel
 
 6. UPLOAD TO AWS S3
-6.1. Obtain AWS credentials
-6.2. Setup and run this plugin
-6.3. Make sure new files are in your S3 bucket
-6.4. Enable website hosting on your S3 bucket and configure "Index Document" and "Error Document"
-6.5. Point your domain to S3 bucket in AWS Route 53
-6.6. You can now stop your EC2 instance.
+ 1. Obtain AWS credentials
+ 2. Setup and run this plugin
+ 3. Make sure new files are in your S3 bucket
+ 4. Enable website hosting on your S3 bucket and configure "Index Document" and "Error Document"
+ 5. Point your domain to S3 bucket in AWS Route 53
+ 6. You can now stop your EC2 instance.
 
 7. UPLOAD TO GOOGLE CLOUD STORAGE
-7.1. Obtain GCS credentials
-7.2. Setup and run this plugin
-7.3. Make sure new files are in your GCS bucket
-7.4. Enable website hosting on your GCS bucket and configure "Main page" and "404 (not found) page"
-7.5. Point your domain to GCS bucket in your GCS
-7.6. You can now stop your EC2 instance.
+ 1. Obtain GCS credentials
+ 2. Setup and run this plugin
+ 3. Make sure new files are in your GCS bucket
+ 4. Enable website hosting on your GCS bucket and configure "Main page" and "404 (not found) page"
+ 5. Point your domain to GCS bucket in your GCS
+ 6. You can now stop your EC2 instance.
 
 
-!!! For more detailed instructions see http://www.s-media.si/hosting-wp-blog-on-s3-or-gcs/ !!!
+!!! For more detailed instructions see http://www.s-media.si/wp-blog-on-s3-or-gcs/ !!!
 
 == Frequently Asked Questions ==
 
