@@ -23,7 +23,7 @@ To publish new content, you will have to run your server with WordPress, write n
  
 == Installation ==
 
-!!! For more detailed instructions see http://www.s-media.si/hosting-wordpress-blog-on-s3-or-gcs/ !!!
+!!! For more detailed instructions see http://www.s-media.si/hosting-wp-blog-on-s3-or-gcs/ !!!
 
 
 1.  Sign up to AWS
@@ -31,7 +31,6 @@ To publish new content, you will have to run your server with WordPress, write n
 3.  Create an S3 bucket
 4.  Migrate your data and configure your blog on EC2 instance
 5.  Install this plugin through the WordPress admin panel
------------------------------------------------------------
 
 6. UPLOAD TO AWS S3
 6.1. Obtain AWS credentials
@@ -50,7 +49,7 @@ To publish new content, you will have to run your server with WordPress, write n
 7.6. You can now stop your EC2 instance.
 
 
-!!! For more detailed instructions see http://www.s-media.si/hosting-wordpress-blog-on-s3-or-gcs/ !!!
+!!! For more detailed instructions see http://www.s-media.si/hosting-wp-blog-on-s3-or-gcs/ !!!
 
 == Frequently Asked Questions ==
 
