@@ -1,9 +1,9 @@
 ﻿<?php
 /**
  * Plugin Name: WPCloudHosting
- * Plugin URI: http://www.s-media.si/hosting-wordpress-blog-on-aws-s3/
- * Description: Capture all blog pages and upload them to your S3 bucket
- * Version: 0.0.1
+ * Plugin URI: http://www.s-media.si/wp-blog-on-s3-or-gcs/
+ * Description: Transfer your blog to static html pages and upload it to Amazon S3 or Google Cloud Storage.
+ * Version: 0.0.2
  * Author: Matej Šircelj
  * Author URI: http://www.s-media.si
  * License: A short license name. Example: GPL2

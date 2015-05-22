@@ -20,7 +20,9 @@ Before you run your blog this way, make sure that you are not using any function
  - etc.
  
 To publish new content, you will have to run your server with WordPress, write new post and then run the plugin again to create new files. For that purpose it is best to run WordPress on your local machine or to make an EC2 instance in Amazon cloud and run it only when you are updating your blog.
- 
+
+!!! For more detailed instructions see http://www.s-media.si/wp-blog-on-s3-or-gcs/ !!!
+
 == Installation ==
 
 !!! For more detailed instructions see http://www.s-media.si/wp-blog-on-s3-or-gcs/ !!!
